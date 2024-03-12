@@ -14,3 +14,10 @@ a {
 li {
 	list-style: none;
 }
+a:visited {
+	color: rgb(30, 70, 148);
+}
+
+a:hover , a:active {
+	color: #d54e4e;
+}
